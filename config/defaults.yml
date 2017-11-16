@@ -160,7 +160,7 @@ defaults:
       open_graph_namespace: 'joindiaspora'
       authorized: false
     twitter:
-      enable: true
+      enable: false
       key:
       secret:
       authorized: true
