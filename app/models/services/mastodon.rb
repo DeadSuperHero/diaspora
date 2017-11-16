@@ -1,4 +1,4 @@
-class Services::mastodon < Service
+class Services::Mastodon < Service
   include Rails.application.routes.url_helpers
 
   MAX_CHARACTERS = 500
