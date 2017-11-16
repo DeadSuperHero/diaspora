@@ -160,7 +160,7 @@ defaults:
       open_graph_namespace: 'joindiaspora'
       authorized: false
     twitter:
-      enable: false
+      enable: true
       key:
       secret:
       authorized: true
@@ -171,6 +171,11 @@ defaults:
       authorized: true
     wordpress:
       enable: false
+      key:
+      secret:
+      authorized: true
+    mastodon:
+      enable: true
       key:
       secret:
       authorized: true

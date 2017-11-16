@@ -159,6 +159,8 @@ gem "omniauth-tumblr",    "1.2"
 gem "omniauth-twitter",   "1.4.0"
 gem "twitter",            "6.1.0"
 gem "omniauth-wordpress", "0.2.2"
+gem 'mastodon-api', require: 'mastodon'
+gem 'omniauth-mastodon'
 
 # OpenID Connect
 gem "openid_connect", "1.1.3"
